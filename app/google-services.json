@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "30587881283",
+    "firebase_url": "https://mithun-5dee8.firebaseio.com",
+    "project_id": "mithun-5dee8",
+    "storage_bucket": "mithun-5dee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30587881283:android:f33d953f875c5bc64ed1f6",
+        "android_client_info": {
+          "package_name": "com.example.crazy8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30587881283-8fehnv1p7idkqovhnjrh3l28fkq8tctk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz1pRKtFjEks5s7en1ayZ_U15uRIQyrXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30587881283-8fehnv1p7idkqovhnjrh3l28fkq8tctk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30587881283:android:34bd091ff854ef044ed1f6",
+        "android_client_info": {
+          "package_name": "com.example.mithun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30587881283-vqdkqekebceb4cth83g46ufnm3uuiudc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mithun",
+            "certificate_hash": "d0e87f825085269b1ab30eb18ab4eaee8008d0a0"
+          }
+        },
+        {
+          "client_id": "30587881283-8fehnv1p7idkqovhnjrh3l28fkq8tctk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz1pRKtFjEks5s7en1ayZ_U15uRIQyrXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30587881283-8fehnv1p7idkqovhnjrh3l28fkq8tctk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
